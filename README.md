@@ -4,6 +4,8 @@ Wenn man die App startet, wird schon die erste Frage angezeigt. Nun muss man ein
 
 Um einen Button-Klick zu erkennen, habe ich EventListeners verwendet. Ein Beispiel dazu ist Folgendes:
 
+```
 submitButton.addEventListener("click", function)
+```
  
 Dieser EventListener führt bei einem Klick auf den Button die Funktion «results» aus
